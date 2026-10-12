@@ -1,20 +1,13 @@
 # Nexora Labs Italy 🇮🇹
 
 ### Official GitHub organization for NEXORA
-Independent Web3 laboratory based in Italy, focused on building open-source tools and the NEXORA ecosystem on Solana.
+Independent Web3 laboratory focused on building NEXORA and exploring new frontiers of decentralized innovation on Solana.
 
----
-
-### 🔗 Links
+### Official Links
 - **X:** https://x.com/nexora_labsxs
-- **Pump.fun:** metti qui il link del tuo coin
+- **Pump.fun:** https://pump.fun/profile/Nexora_Labs
 - **Chain:** Solana
+- **Location:** Italy
 
-### 🗺️ Roadmap
-- **Phase 1 - Lab Setup ✅ DONE**
-- **Phase 2 - NEXORA Launch**
-- **Phase 3 - Tools & Website**
-- **Phase 4 - Ecosystem Growth**
-
----
-*Built in Italy, for Solana.*
+### Roadmap
+Building in public. Stay tuned.
